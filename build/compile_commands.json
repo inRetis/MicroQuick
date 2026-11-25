@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o runtime/CMakeFiles/microquick.dir/src/animation.cpp.o -c /Users/huston/Programmation/MicroQuick/runtime/src/animation.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/runtime/src/animation.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/runtime/CMakeFiles/microquick.dir/src/animation.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o runtime/CMakeFiles/microquick.dir/src/global.cpp.o -c /Users/huston/Programmation/MicroQuick/runtime/src/global.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/runtime/src/global.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/runtime/CMakeFiles/microquick.dir/src/global.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o runtime/CMakeFiles/microquick.dir/src/items.cpp.o -c /Users/huston/Programmation/MicroQuick/runtime/src/items.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/runtime/src/items.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/runtime/CMakeFiles/microquick.dir/src/items.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o runtime/CMakeFiles/microquick.dir/src/painter.cpp.o -c /Users/huston/Programmation/MicroQuick/runtime/src/painter.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/runtime/src/painter.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/runtime/CMakeFiles/microquick.dir/src/painter.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o runtime/CMakeFiles/microquick.dir/src/property.cpp.o -c /Users/huston/Programmation/MicroQuick/runtime/src/property.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/runtime/src/property.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/runtime/CMakeFiles/microquick.dir/src/property.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o runtime/CMakeFiles/microquick.dir/src/string.cpp.o -c /Users/huston/Programmation/MicroQuick/runtime/src/string.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/runtime/src/string.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/runtime/CMakeFiles/microquick.dir/src/string.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o runtime/CMakeFiles/microquick.dir/src/views.cpp.o -c /Users/huston/Programmation/MicroQuick/runtime/src/views.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/runtime/src/views.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/runtime/CMakeFiles/microquick.dir/src/views.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o runtime/CMakeFiles/microquick.dir/src/window.cpp.o -c /Users/huston/Programmation/MicroQuick/runtime/src/window.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/runtime/src/window.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/runtime/CMakeFiles/microquick.dir/src/window.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -isystem /Users/huston/Qt/6.12.0/macos/include/QtCore -iframework /Users/huston/Qt/6.12.0/macos/lib -isystem /Users/huston/Qt/6.12.0/macos/mkspecs/macx-clang -isystem /Users/huston/Qt/6.12.0/macos/include/QtGui -std=gnu++17 -arch arm64 -idirafter /Users/huston/Qt/6.12.0/macos/include -o tools/mqassets/CMakeFiles/mqassets.dir/main.cpp.o -c /Users/huston/Programmation/MicroQuick/tools/mqassets/main.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/tools/mqassets/main.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/tools/mqassets/CMakeFiles/mqassets.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -I/Users/huston/Programmation/MicroQuick/runtime/include -isystem /Users/huston/Qt/6.12.0/macos/include/QtCore -iframework /Users/huston/Qt/6.12.0/macos/lib -isystem /Users/huston/Qt/6.12.0/macos/mkspecs/macx-clang -isystem /Users/huston/Qt/6.12.0/macos/include/QtGui -std=gnu++17 -arch arm64 -frtti -fexceptions -fno-exceptions -fno-rtti -Wall -Wextra -idirafter /Users/huston/Qt/6.12.0/macos/include -o platform/simulator/CMakeFiles/mq_simulator.dir/main.cpp.o -c /Users/huston/Programmation/MicroQuick/platform/simulator/main.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/platform/simulator/main.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/platform/simulator/CMakeFiles/mq_simulator.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/build/examples/demo/demo_ui_generated -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o examples/demo/CMakeFiles/demo_ui.dir/demo_ui_generated/mq_app.cpp.o -c /Users/huston/Programmation/MicroQuick/build/examples/demo/demo_ui_generated/mq_app.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/build/examples/demo/demo_ui_generated/mq_app.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/examples/demo/CMakeFiles/demo_ui.dir/demo_ui_generated/mq_app.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/build/examples/demo/demo_ui_generated -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o examples/demo/CMakeFiles/demo_ui.dir/demo_ui_generated/mq_assets.cpp.o -c /Users/huston/Programmation/MicroQuick/build/examples/demo/demo_ui_generated/mq_assets.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/build/examples/demo/demo_ui_generated/mq_assets.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/examples/demo/CMakeFiles/demo_ui.dir/demo_ui_generated/mq_assets.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/build/examples/core2/core2_ui_generated -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o examples/core2/CMakeFiles/core2_ui.dir/core2_ui_generated/mq_app.cpp.o -c /Users/huston/Programmation/MicroQuick/build/examples/core2/core2_ui_generated/mq_app.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/build/examples/core2/core2_ui_generated/mq_app.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/examples/core2/CMakeFiles/core2_ui.dir/core2_ui_generated/mq_app.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/build/examples/core2/core2_ui_generated -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o examples/core2/CMakeFiles/core2_ui.dir/core2_ui_generated/mq_assets.cpp.o -c /Users/huston/Programmation/MicroQuick/build/examples/core2/core2_ui_generated/mq_assets.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/build/examples/core2/core2_ui_generated/mq_assets.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/examples/core2/CMakeFiles/core2_ui.dir/core2_ui_generated/mq_assets.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o tests/CMakeFiles/test_runtime.dir/test_runtime.cpp.o -c /Users/huston/Programmation/MicroQuick/tests/test_runtime.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/tests/test_runtime.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/tests/CMakeFiles/test_runtime.dir/test_runtime.cpp.o"
+},
+{
+  "directory": "/Users/huston/Programmation/MicroQuick/build",
+  "command": "/usr/bin/c++ -DMQ_HOSTED=1 -I/Users/huston/Programmation/MicroQuick/build/examples/demo/demo_ui_generated -I/Users/huston/Programmation/MicroQuick/runtime/include -std=gnu++17 -arch arm64 -fno-exceptions -fno-rtti -Wall -Wextra -o tests/CMakeFiles/test_demo.dir/test_demo.cpp.o -c /Users/huston/Programmation/MicroQuick/tests/test_demo.cpp",
+  "file": "/Users/huston/Programmation/MicroQuick/tests/test_demo.cpp",
+  "output": "/Users/huston/Programmation/MicroQuick/build/tests/CMakeFiles/test_demo.dir/test_demo.cpp.o"
+}
+]

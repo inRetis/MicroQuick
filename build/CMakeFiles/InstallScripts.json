@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/huston/Programmation/MicroQuick/build/cmake_install.cmake",
+		"/Users/huston/Programmation/MicroQuick/build/runtime/cmake_install.cmake",
+		"/Users/huston/Programmation/MicroQuick/build/tools/mqassets/cmake_install.cmake",
+		"/Users/huston/Programmation/MicroQuick/build/platform/simulator/cmake_install.cmake",
+		"/Users/huston/Programmation/MicroQuick/build/examples/demo/cmake_install.cmake",
+		"/Users/huston/Programmation/MicroQuick/build/examples/core2/cmake_install.cmake",
+		"/Users/huston/Programmation/MicroQuick/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
