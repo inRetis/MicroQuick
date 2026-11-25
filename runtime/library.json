@@ -1,0 +1,11 @@
+{
+  "name": "microquick",
+  "version": "0.1.0",
+  "description": "MicroQuick runtime: Qt Quick-like UI for microcontrollers (QML compiled to C++)",
+  "frameworks": "*",
+  "platforms": "*",
+  "build": {
+    "srcDir": "src",
+    "includeDir": "include"
+  }
+}
