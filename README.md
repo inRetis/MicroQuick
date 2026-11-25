@@ -74,7 +74,7 @@ C++17 runtime renders it on the device:
 
 Qt is only used **on the host**. Nothing from Qt runs on the microcontroller.
 
-## Quick start (desktop simulator)
+## Quick start (desktop simulator on MacOS)
 
 ```bash
 git clone <this repository> MicroQuick
